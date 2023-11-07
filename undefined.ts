@@ -1,0 +1,1 @@
+let und: undefined = undefined;
